@@ -5,6 +5,8 @@ namespace RepasoPersona.Core
         public double nroCBU{get;set;}
         
         public double Saldo{get;set;}
+
+        public string Persona{get;set;}
     }
 
 }
